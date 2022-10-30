@@ -4,7 +4,7 @@
 
 <h3>HOW TO DOCKER BUILD:</h3>
 
-    docker build -t wows-webserver .
+    docker build -t 5eb-dev .
 
 <h3>HOW TO DOCKER RUN:</h3>
 

@@ -1,7 +1,6 @@
-<h1>SETUP PROJECT</h1>
+<h1>PC SETUP</h1>
 
 - install npm
-- install npm package: "npm install -g express-generator"
 
 <h1>SETUP WEBSERVER:</h1>
 
@@ -9,6 +8,7 @@ For following Commands terminal must be in folder .\nodeapp
  
 - 'npm i' - installs all needed packages
 - 'npm start' - starts Webserver (Accessable over localhost:3000)
+- Ctrl + c stops the Webserver
 
 <h3>HOW TO DOCKER BUILD:</h3>
 
